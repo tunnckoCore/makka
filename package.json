@@ -2,7 +2,7 @@
   "name": "makka",
   "version": "0.1.0",
   "description": "Small, safe and extensible library to deal with asynchronous control flow, built on [minibase][]",
-  "repository": "tunnckoCore/github-clone-labels",
+  "repository": "tunnckoCore/makka",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "precommit.silent": true,
   "main": "index.js",
