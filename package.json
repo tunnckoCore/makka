@@ -21,7 +21,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "minibase": "^0.2.2"
+    "minibase": "^0.3.0"
   },
   "devDependencies": {
     "commitizen": "^2.8.6",
